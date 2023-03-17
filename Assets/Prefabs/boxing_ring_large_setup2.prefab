@@ -194,7 +194,7 @@ PrefabInstance:
     - target: {fileID: 4787166962606208131, guid: b62837ff8435a7c46854563f6a0cf58a,
         type: 3}
       propertyPath: m_Name
-      value: step_ladder (1)
+      value: step_ladder1
       objectReference: {fileID: 0}
     - target: {fileID: 5270546722052943417, guid: b62837ff8435a7c46854563f6a0cf58a,
         type: 3}
